@@ -1,6 +1,7 @@
 # 100 Days of Code: Python Projects
 
 Welcome to my GitHub repository for projects created during the **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**. This repository serves as a showcase of my learning journey, demonstrating hands-on projects that highlight Python programming skills and various technologies.
+
 ---
 
 ## 🌟 About the Course
