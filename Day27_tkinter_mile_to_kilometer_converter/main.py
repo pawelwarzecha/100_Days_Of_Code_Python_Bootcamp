@@ -2,7 +2,7 @@ from tkinter import *
 
 #Converts miles to Km and changes the calculate_result_label
 def calculate():
-    value = int(input_window.get())
+    value = float(input_window.get())
     km = value * 1.609344
     calculate_result_label.config(text=round(km, 2))
 
