@@ -72,13 +72,5 @@ Throughout the course, I've worked with a variety of technologies, tools, and fr
 
 ---
 
-## 🎯 Goals
-
-1. **Master Python**: Gain a solid understanding of Python programming through practical implementation.
-2. **Build a Portfolio**: Showcase real-world projects to demonstrate programming skills to potential recruiters.
-3. **Learn Versatile Skills**: Explore a range of tools and technologies to become a well-rounded developer.
-
----
-
 Thank you for visiting my repository! 🚀
 
