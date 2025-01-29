@@ -20,41 +20,41 @@ The **100 Days of Code: The Complete Python Pro Bootcamp** is a highly-rated Ude
 
 Throughout the course, I've worked with a variety of technologies, tools, and frameworks, including:
 
-Core Python
-Python Basics (Variables, Data Types, Loops, Functions, etc.)
-Object-Oriented Programming (OOP)
-Error Handling
-File Handling
+### Core Python
+- Python Basics (Variables, Data Types, Loops, Functions, etc.)
+- Object-Oriented Programming (OOP)
+- Error Handling
+- File Handling
 
-Web Development
-HTML, CSS
-Flask (Web Framework)
-REST APIs
-Web Scraping (BeautifulSoup, Selenium)
-Authentication (WTForms, Flask-Login)
+### Web Development
+- **Frontend**: HTML, CSS
+- **Backend**: Flask (Web Framework)
+- **APIs**: REST APIs
+- **Web Scraping**: BeautifulSoup, Selenium
+- **Authentication**: WTForms, Flask-Login
 
-Data Science and Analysis
-Pandas (Data Manipulation)
-NumPy (Numerical Computing)
-Matplotlib and Seaborn (Data Visualization)
-Plotly (Interactive Visualizations)
+### Data Science and Analysis
+- **Data Manipulation**: Pandas
+- **Numerical Computing**: NumPy
+- **Data Visualization**: Matplotlib, Seaborn
+- **Interactive Visualizations**: Plotly
 
-Automation and Scripting
-Working with CSV and JSON Data
-Automating Tasks with Python Scripts
-Web Automation (Selenium)
+### Automation and Scripting
+- Working with CSV and JSON Data
+- Automating Tasks with Python Scripts
+- Web Automation with Selenium
 
-Game Development
-Turtle Graphics
-Pygame (for building games like Snake, Pong, etc.)
+### Game Development
+- Turtle Graphics
+- Pygame (for building games like Snake, Pong, etc.)
 
-Deployment
-Hosting Web Applications (e.g., using PythonAnywhere, Heroku)
+### Deployment
+- Hosting Web Applications (e.g., PythonAnywhere, Heroku)
 
-Other Tools
-Git and GitHub (Version Control)
-Command Line Interface (CLI)
-Jupyter Notebooks
+### Other Tools
+- Git and GitHub (Version Control)
+- Command Line Interface (CLI)
+- Jupyter Notebooks
 
 ---
 
