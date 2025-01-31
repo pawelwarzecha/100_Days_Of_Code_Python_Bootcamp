@@ -8,4 +8,3 @@ nato_dict = {row.letter: row.code for index, row in df.iterrows()}
 word = input("Enter a word: ").upper()
 word_in_nato = [nato_dict[letter] for letter in word]
 print(word_in_nato)
-
