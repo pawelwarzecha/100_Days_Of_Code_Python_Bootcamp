@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7c7622-7875-48dd-85fb-1c51d04a4240" name="Changes" comment="" />
+    <list default="true" id="cb7c7622-7875-48dd-85fb-1c51d04a4240" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/.idea/Day25_pandas_US_States_Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/.idea/Day25_pandas_US_States_Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Day25_pandas_US_States_Game/states_to_learn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day27_tkinter_mile_to_kilometer_converter/.idea/Day27_tkinter_mile_to_kilometer_converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day27_tkinter_mile_to_kilometer_converter/.idea/Day27_tkinter_mile_to_kilometer_converter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day27_tkinter_mile_to_kilometer_converter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day27_tkinter_mile_to_kilometer_converter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day28_Tkinter_Pomodoro_timer/.idea/Day28_Tkinter_Pomodoro_timer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day28_Tkinter_Pomodoro_timer/.idea/Day28_Tkinter_Pomodoro_timer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day28_Tkinter_Pomodoro_timer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day28_Tkinter_Pomodoro_timer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Day29_Tkinter_Password_Manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Day29_Tkinter_Password_Manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2sLZMSfc8Olt6oJEKXCmh9T8kSz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,14 +43,15 @@
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pawel.Warzecha/PycharmProjects/100_Days_Of_Code_Python_Bootcamp/Day26_pandas_NATO_Alphabet"
+    "last_opened_file_path": "C:/Users/pawew/Documents/GitHub/100_Days_Of_Code_Python_Bootcamp/Day29_Tkinter_Password_Manager"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
