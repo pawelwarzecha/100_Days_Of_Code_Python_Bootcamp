@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb7c7622-7875-48dd-85fb-1c51d04a4240" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb7c7622-7875-48dd-85fb-1c51d04a4240" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +34,9 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pawel.Warzecha/PycharmProjects/100_Days_Of_Code_Python_Bootcamp/Day31_Flash_Card_App"
+    "last_opened_file_path": "C:/Users/Pawel.Warzecha/PycharmProjects/100_Days_Of_Code_Python_Bootcamp/Day29_Tkinter_Password_Manager"
   }
 }]]></component>
   <component name="SharedIndexes">
